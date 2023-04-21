@@ -1,15 +1,6 @@
 # Fukushima_manuscript_notebooks
 The repository contains the scripts used in the study of Taniguchi et al. to process the Cellranger output files and Velocyto loom file.
-For the original ipynb file size over 100MB, the scripts were deposited in .py format.
-
-１．Scanpy_functions_v03262021.ipynb
-
-The script contains sub-processing functions calling Scanpy package.
-
-2.
-
-The script used in this study to process the Cellranger and Velocyto loom file.
-
-3.
-
-The script used to generate the figures illustrated in the manuscript.
+Including:
+1. The script contains sub-processing functions calling Scanpy package.
+2. The scripts used in this study to process the Cellranger and Velocyto loom file.
+3.The scripts used to generate the figures illustrated in the manuscript.
